@@ -8,6 +8,8 @@ Part of holding myself accountable to this was that I have (and will continue to
 
 The other big part is disseminating this document and encoraging people to hold me to it. 
 
-It's clear to me that it needs a bit of editing, crisping up.  But even as it stands, I'm quite happy with it, and am happy to stand behind it.  Enjoy!
+It's clear to me that it needs a bit of editing, crisping up.  But even as it stands, I'm quite happy with it, and am happy to stand behind it.  
+
+Enjoy!
 
 (Oh, and if you see me acting counter to these ideals, no matter who you are - say something. :) )
