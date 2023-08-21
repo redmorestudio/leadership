@@ -1,4 +1,5 @@
-# leadership
+# Leadership Philosophy
+
 This is my leadership philosophy.  I've developed this over the years, and instantiated the actual idea of having an explicit philosophy (and early versions of the philosophy itself) with the help and guidance of Cliff Gilmore.  Cliff is quite the coach - read more about him [here](https://medium.com/@NorthofCenter/if-you-are-thinking-about-hiring-a-north-of-center-coach-8ea52e2fe452).
 
 This document is aspirational.  I hold myself to it as best I can, but part of it is that failure is expected and, in fact, encouraged.  If you're not failing you're not trying hard enough.
