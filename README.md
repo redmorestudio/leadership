@@ -6,11 +6,11 @@ I've developed this over the years, and instantiated the actual idea of having a
 
 This document is aspirational.  I hold myself to it as best I can, but part of it is that failure is expected and, in fact, encouraged.  If you're not failing you're not trying hard enough.
 
-Part of holding myself accountable to this was that I have (and will continue to) shared my yearly review with anyone that works for me.  I mean, it's a little redacted to pull anything like pay out of it, but other than that - I feel that the people who work for me ABSOLUTELY have the right to know what is in store for me.  What I have to work on.  What's going well and what's not.  If you're a manager - try it!
+Part of holding myself accountable to this was that I share my yearly review with anyone that works for me.  I mean, it's a little redacted to pull anything like pay out of it, but other than that - I feel that the people who work for me ABSOLUTELY have the right to know what is in store for me.  What I have to work on.  What's going well and what's not.  If you're a manager - try it!
 
-The other big part is disseminating this document and encoraging people to hold me to it. 
+The other big part is disseminating this document and encouraging people to hold me to it. 
 
-It's clear to me that it needs a bit of editing, crisping up.  But even as it stands, I'm quite happy with it, and am happy to stand behind it.  
+It's clear to me that it needs a bit of editing, crisping up. (And always will.)  But even as it stands, I'm quite happy with it, and am happy to stand behind it.  
 
 Enjoy!
 
