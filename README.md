@@ -1,6 +1,6 @@
 # Leadership Philosophy
 
-[Click this link to get the actual leadership philosophy](https://github.com/redmorestudio/leadership/blob/main/Seth's%20Leadership%20Philosophy%20v1.2.pdf).  
+[Click this link to get the actual leadership philosophy](https://github.com/redmorestudio/leadership/blob/262f4789fb7be91b4da790efe67c684247b715c8/Seth's%20Leadership%20Philosophy%20v3-1.pdf).  
 
 I've developed this over the years, and instantiated the actual idea of having an explicit philosophy (and early versions of the philosophy itself) with the help and guidance of Cliff Gilmore.  Cliff is quite the coach - read more about him [here](https://medium.com/@NorthofCenter/if-you-are-thinking-about-hiring-a-north-of-center-coach-8ea52e2fe452).
 
