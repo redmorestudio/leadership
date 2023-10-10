@@ -2,7 +2,7 @@
 
 [Click this link to get the actual leadership philosophy](https://github.com/redmorestudio/leadership/blob/262f4789fb7be91b4da790efe67c684247b715c8/Seth's%20Leadership%20Philosophy%20v3-1.pdf).  
 
-I've developed this over the years, and will evolve.
+I've developed this over the years, and will evolve over the years to come.  Where will it be in 10 years?  In 20?
 
 This document is aspirational. I hold myself to it as best I can, but part of it is that failure is expected and, in fact, encouraged. If you're not failing - you're not trying hard enough. And as I learn, this document will evolve.  Where will it be in 10 years?
 
