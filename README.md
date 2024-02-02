@@ -6,9 +6,11 @@ I've developed this over the years, and will evolve over the years to come.
 
 This document is aspirational. I hold myself to it as best I can, but failure is encouraged. If I'm not failing sometimes, then I'm not trying hard enough. And as I learn, this document will evolve. Where will it be in 10 years?  In 20?
 
-This isn't just a bunch of bullets - I make sure that it is well distributed, commented on, and that my peers, bosses, and memebers of my team understand what I'm trying to do. I encourage an open, honest, kind, and constant feedback loop.  
+This isn't just a bunch of bullets - I make sure that it is well distributed, commented on, and that my peers, bosses, and memebers of my team understand what I'm trying to do. I encourage an open, honest, kind, and constant feedback loop. 
 
-There's no time like yearly review time, right?  Part of holding myself accountable to this was that I share my yearly review with anyone that works for me. I mean, it's a little redacted to pull anything like pay out of it, but other than that - I feel that the people who work for me ABSOLUTELY have the right to know what is in store for me.  What I have to work on.  What's going well and what's not.  If you're a manager - try it!  It requires a certain amount of vulnerability, but it is more than made up for by the support. When my team sees the cracks, they can help me paste them over and, eventually, fix them.
+I am a firm believer that leadership isn't just for managers and execs.  It's for everyone.  You don't have to be looking at a 3-year planning horizon to want (or need) to lead.  Leadership can be as simple as gracefully challenging assumptions, or introducing new ways to do things. I mean it very seriously when I say that everyone has some opportunity to lead in their own lives.
+
+Clearly, this document is going to be optimized for work stuff, but the themes in it resonate everywhere.
 
 Enjoy!
 
