@@ -1,6 +1,6 @@
 # Leadership Philosophy
 
-[Click this link to get the actual leadership philosophy](https://github.com/redmorestudio/leadership/blob/262f4789fb7be91b4da790efe67c684247b715c8/Seth's%20Leadership%20Philosophy%20v3-1.pdf).  
+[Click this link to get the actual leadership philosophy](https://github.com/redmorestudio/leadership/blob/main/Seth's%20Leadership%20Philosophy%20v4.0.pdf).  
 
 I've developed this over the years, and will evolve over the years to come.  
 
